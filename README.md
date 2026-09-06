@@ -4,7 +4,7 @@ Founder of **[Megaptera Labs](https://megapteralabs.com)**, an AI transformation
 
 I invest across angel, private and public markets, and I built **[DealOS](https://dealos.megapteralabs.com)**, an institutional deal-analysis terminal for private markets, to make rigorous investment analysis faster and more systematic.
 
-Before Megaptera I led a three-year enterprise transformation as Head of Strategy at **eBay ANZ**. Before that I spent five years at **Bain & Company** in corporate strategy and diligence, across FMCG, financial services, technology and private equity. I have backed Everlab, Puralink and PsiQuantum.
+Before Megaptera I led a three-year enterprise transformation as Head of Strategy at **eBay ANZ**. Before that I spent five years at **Bain & Company** in corporate strategy and diligence, across FMCG, financial services, healthcare, technology and private equity. I have backed Everlab, Puralink and PsiQuantum.
 
 I hold an MPH from **Yale University**. I also hold a BSE in Industrial & Operations Engineering from the **University of Michigan**, and a BSE in Electrical & Computer Engineering from **Shanghai Jiao Tong University**.
 
