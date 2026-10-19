@@ -2,7 +2,7 @@
 
 Founder of **[Megaptera Labs](https://megapteralabs.com)**, an end-to-end strategic intelligence and value creation firm in **Sydney, Australia**, helping institutional investors and their portfolio companies take AI from ambition to production. Strategy and engineering sit in one senior team: the people who scope the work are the people who build it.
 
-I invest across angel, private and public markets, and I built **[DealOS](https://dealos.megapteralabs.com)**, an institutional deal-analysis terminal for private markets, to make rigorous investment analysis faster and more systematic.
+I invest across angel, private and public markets, and I built **[DealOS](https://dealos.megapteralabs.com)**, an institutional deal-analysis terminal for private markets, to make rigorous investment analysis faster and more systematic. I co-founded **[PHEME](https://pheme.com.au)**, independent intelligence on Australian private and public capital, and I am a co-editor.
 
 Before Megaptera I led a three-year enterprise transformation as Head of Strategy at **eBay ANZ**. Before that I spent five years at **Bain & Company** in corporate strategy and diligence, across FMCG, financial services, healthcare, technology and private equity. I have backed Everlab, Puralink and PsiQuantum.
 
@@ -14,6 +14,6 @@ Enterprise AI rarely fails on the model. It fails in the weeks after launch, whe
 
 ### Elsewhere
 
-[megapteralabs.com](https://megapteralabs.com) · [LinkedIn](https://www.linkedin.com/in/jsguo/) · hello@megapteralabs.com
+[megapteralabs.com](https://megapteralabs.com) · [LinkedIn](https://www.linkedin.com/in/jsguo/) · [PHEME](https://pheme.com.au) · hello@megapteralabs.com
 
 <sub>Disambiguation: Megaptera Labs (megapteralabs.com), MEGAPTERA LABS PTY LTD, ABN 34 698 773 278, Sydney. Not affiliated with Megaptera Inc. / Megaptera Cybersecurity (megapteracyber.com), nor with the <code>megaptera</code> R package.</sub>
