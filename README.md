@@ -2,9 +2,9 @@
 
 Founder of **[Megaptera Labs](https://megapteralabs.com)**, an end-to-end strategic intelligence and value creation firm in **Sydney, Australia**, helping institutional investors and their portfolio companies take AI from ambition to production. Strategy and engineering sit in one senior team: the people who scope the work are the people who build it.
 
-I built **[DealOS](https://dealos.megapteralabs.com)**, an institutional deal-analysis terminal for private markets, to make rigorous investment analysis faster and more systematic. I am a co-editor of **[PHEME](https://pheme.com.au)**, an independent intelligence platform on Australian private and public capital.
+I built **[DealOS](https://dealos.megapteralabs.com)**, an institutional deal-analysis terminal for private markets, to make rigorous investment analysis faster and more systematic.
 
-Before Megaptera I led a three-year enterprise transformation as Head of Strategy at **eBay ANZ**, after performing corporate strategy and commercial diligence at **Bain & Company** across FMCG, financial services, healthcare, technology and private equity. I have backed Everlab, Puralink and PsiQuantum.
+Before Megaptera I led a three-year enterprise transformation as Head of Strategy at **eBay ANZ**, after performing corporate strategy and commercial diligence at **Bain & Company** across FMCG, financial services, healthcare, technology and private equity. I have backed Everlab, Puralink and PsiQuantum. Outside Megaptera Labs, I am a co-editor of **[PHEME](https://pheme.com.au)**, an independent intelligence platform on Australian private and public capital.
 
 I hold an MPH from **Yale University**. I also hold a BSE in Industrial & Operations Engineering from the **University of Michigan**, and a BSE in Electrical & Computer Engineering from **Shanghai Jiao Tong University**.
 
