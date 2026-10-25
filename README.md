@@ -1,6 +1,6 @@
 ## James Guo
 
-Founder of **[Megaptera Labs](https://megapteralabs.com)**, an end-to-end strategic intelligence and value creation firm in **Sydney, Australia**, helping institutional investors and their portfolio companies take AI from ambition to production. Strategy and engineering sit in one senior team: the people who scope the work are the people who build it.
+Founder of **[Megaptera Labs](https://megapteralabs.com)**, an end-to-end AI strategic intelligence and value creation firm in **Sydney, Australia**, helping institutional investors and their portfolio companies take AI from ambition to production. Strategy and engineering sit in one senior team: the people who scope the work are the people who build it.
 
 I built **[DealOS](https://dealos.megapteralabs.com)**, an institutional deal-analysis terminal for private markets, to make rigorous investment analysis faster and more systematic.
 
